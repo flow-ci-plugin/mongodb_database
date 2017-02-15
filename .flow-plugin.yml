@@ -1,0 +1,19 @@
+
+name: mongodb_database
+version: 0.0.1
+language: 
+description: Launch MongoDB database
+public: true
+tags:
+  - mongodb
+  - database
+inputs:
+outputs:
+  - name: FLOW_DATABASE_MONGODB_VERSION
+  - name: FLOW_DATABASE_MONGODB_IP
+  - name: FLOW_DATABASE_MONGODB_PORT
+script_path: ./run.sh  
+  
+template: |  
+  
+  
