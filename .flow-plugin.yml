@@ -1,6 +1,6 @@
 
 name: mongodb_database
-version: 0.0.1
+version: 0.0.2
 language: 
 description: Launch MongoDB database
 public: true
